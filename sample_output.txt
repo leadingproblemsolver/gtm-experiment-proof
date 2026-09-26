@@ -1,0 +1,48 @@
+MAXX RECRUITMENT WEDGE — VALIDATION QUEUE
+========================================================================================
+Hunter Bond          VALIDATE  | strong workflow-density signal; smaller company
+  operator: Ben Woodhouse — Director/Headhunter - Global Head of Financial Technology
+  signal: multi-market specialist recruitment + candidate/client handoffs
+  probe: Probe whether prospect/candidate follow-up or handoff visibility is a repeated operational bottleneck.
+Petroplan            PRIORITY  | mid-market + publicly visible workflow density
+  operator: Neil Bradshaw — Regional Director - EMEA
+  signal: high-volume global placement operation
+  probe: Probe where follow-up, routing, status tracking, or proposal/admin work creates delay across regions.
+Meet Life Sciences   PRIORITY  | mid-market + publicly visible workflow density
+  operator: Naveed Pritchard — Director
+  signal: multi-solution recruitment delivery
+  probe: Probe where candidate/client context gets duplicated or lost across service lines.
+Storm2               DEFER     | insufficient public workflow-density signal
+  operator: Katherine Farquharson — Director - North America
+  signal: multiple staffing motions + two-region operation
+  probe: Probe qualification, follow-up and handoff friction between sourcing, client conversations and delivery.
+Cypress HCM          PRIORITY  | mid-market + publicly visible workflow density
+  operator: Mark Lillig — CEO
+  signal: high-touch matching and client/candidate coordination
+  probe: Probe repeated admin/follow-up work around candidate matching and client status visibility.
+Spencer Ogden        PRIORITY  | mid-market + publicly visible workflow density
+  operator: Simon Lascelles — Managing Partner
+  signal: 11-office multi-region delivery
+  probe: Probe where cross-office workflow, follow-up and CRM state becomes expensive or slow.
+Harnham              PRIORITY  | mid-market + publicly visible workflow density
+  operator: Cindy Walusiak — Senior Growth Manager
+  signal: multi-region multi-service GTM
+  probe: Probe where lead research, enrichment, follow-up or attribution requires manual work.
+24 Seven Talent      PRIORITY  | mid-market + publicly visible workflow density
+  operator: Nicole Vanore Tebo — Senior Executive Vice President
+  signal: broad service portfolio + global delivery
+  probe: Probe lead routing and follow-up across multiple service offerings.
+RED Global           PRIORITY  | mid-market + publicly visible workflow density
+  operator: Jue Hou — Managing Director
+  signal: large multi-office recruiting operation
+  probe: Probe cross-office prospect/candidate routing, follow-up and status visibility.
+Hire Rightt          VALIDATE  | strong workflow-density signal; smaller company
+  operator: Manu Deep Kalra — Founder and Global Sales Director - North America, Middle East & India
+  signal: founder-led multi-region sales + recruitment
+  probe: Probe founder-level admin load, follow-up and pipeline visibility across regions.
+
+COUNTS
+PRIORITY=7
+VALIDATE=2
+DEFER=1
+REJECT=0
