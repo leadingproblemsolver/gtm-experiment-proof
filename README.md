@@ -6,6 +6,16 @@ This repo was built for the MAXX Intelligence GTM Engineer role. The role emphas
 
 The artifact is intentionally simple: a real target set, explicit evidence, current operators, deterministic routing, and a pre-declared experiment/kill condition.
 
+## Live field-test offer
+
+Want this applied to a real B2B offer?
+
+See **[FIELD_TEST_OFFER.md](./FIELD_TEST_OFFER.md)**.
+
+The current test is simple: send **one offer + one ICP** and I will manually return the first **5 evidence-backed accounts** with buyer, trigger, source, observed vs inferred reasoning, intervention, and a `READY / RESEARCH / REJECT` state.
+
+No revenue or meeting guarantee is implied; the purpose is to test whether the account-selection and intervention quality is materially better than generic prospect research.
+
 ## What question does this answer?
 
 > Given only public evidence, can I turn a broad ICP into a bounded, auditable outbound experiment with clear next actions — without fabricating intent, pain, or ROI?
